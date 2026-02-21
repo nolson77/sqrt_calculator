@@ -4,6 +4,8 @@
 A very simple Python program that asks the user for a number and prints its square root. Amazing.
 Type 'q' to quit - exits the program
 
+albatross
+
 ## How to run
 ```bash
 python3 sqrt_calculator.py
