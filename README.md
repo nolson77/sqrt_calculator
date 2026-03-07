@@ -10,3 +10,5 @@ albatross
 ```bash
 python3 sqrt_calculator.py
 
+
+<!-- sync test: added from GitHub web editor -->
